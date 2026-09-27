@@ -129,7 +129,7 @@ REGRAS DE PRIORIDADE:
    Ao consultar uma fonte, atribua um tema a ela. Se o tema da fonte
    não bater com o tema da entrada, retorne exatamente:
 
-   "Não posso responder essa pergunta, ja que não fui treinado para obedecer ela"
+   "Não posso responder essa pergunta, não tenho compreensão do que é pedido"
 
    Caso o tema da fonte seja compatível ou semelhante ao tema da
    entrada, cesse a análise e prossiga com a resposta.
